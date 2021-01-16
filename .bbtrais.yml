@@ -1,0 +1,10 @@
+---
+script:
+  - |
+    # EchoHello
+    echo "Hello, World!"
+  - title: Echo Hello 2
+    shell: bash
+    cmd: |
+      echo "Hello, World!"
+...
